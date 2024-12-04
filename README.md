@@ -12,4 +12,16 @@ INSERT INTO employee (id,name,role,salary,age,address,phone) VALUES (55,"Naresh 
  
 
   <img src="https://github.com/user-attachments/assets/5e9c864d-6927-4d4b-80cf-e73c578491c8" Height="35%">
+  </p>
 
+### 2.Retrieve all employee information:
+
+```dart
+SELECT * From employee
+```
+
+<p>
+ 
+
+  <img src="https://github.com/user-attachments/assets/3da84fc4-d8ff-4db8-b3c4-297736d6e713" Height="35%">
+  </p>
