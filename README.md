@@ -97,5 +97,16 @@ DELETE FROM employee WHERE id=101;
   <img src="https://github.com/user-attachments/assets/8ad9f7eb-91c4-4952-944d-a8807f3c4a43" Height="35%">
 </p>
 
+### 10.Delete all employees under 20 (assuming it's not a valid age).
+
+```dart
+DELETE FROM employee WHERE age<=20;
+```
+<p>
+
+  <img src="(https://github.com/user-attachments/assets/9fab1d2a-ba2f-4a45-8571-cc8176c70851" Height="35%">
+</p>
+
+
 
 
