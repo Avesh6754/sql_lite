@@ -54,6 +54,17 @@ SELECT * From employee WHERE name Like "A%";
 </p>
 
 
+### 6.Find employees older than 30 and earning more than $70,000:
+
+```dart
+SELECT * From employee WHERE age>30 AND salary>70000;
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/8780a21b-ed05-4d8e-a5b0-442bd043690a" Height="35%">
+</p>
+
+
+
 
 
 
