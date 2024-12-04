@@ -11,5 +11,5 @@ INSERT INTO employee (id,name,role,salary,age,address,phone) VALUES (55,"Naresh 
 <p>
  
 
-  <img src="https://github.com/user-attachments/assets/5e9c864d-6927-4d4b-80cf-e73c578491c8" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/5e9c864d-6927-4d4b-80cf-e73c578491c8" Height="35%">
 
