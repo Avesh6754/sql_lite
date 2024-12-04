@@ -63,11 +63,16 @@ SELECT * From employee WHERE age>30 AND salary>70000;
   <img src="https://github.com/user-attachments/assets/8780a21b-ed05-4d8e-a5b0-442bd043690a" Height="35%">
 </p>
 
+### 7.Change the salary of an employee with ID 100::
 
+```dart
 
-
-
-
+UPDATE employee SET salary=65953 WHERE id=100;
+SELECT * From employee WHERE id=100;
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/faf27753-af5d-49ff-a065-9ff2c21a37d1" Height="35%">
+</p>
 
 
 
