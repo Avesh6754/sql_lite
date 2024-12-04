@@ -32,6 +32,7 @@ CREATE TABLE "employee" (
 	"age"	INTEGER NOT NULL,
 	"address"	TEXT,
 	"phone"	INTEGER
+	PRIMARY KEY("id")
 );
 ```
 ---
