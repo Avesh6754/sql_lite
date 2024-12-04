@@ -34,4 +34,24 @@ SELECT name,salary From employee
   <img src="https://github.com/user-attachments/assets/566aa300-018d-4aa4-8f50-497210178cc4" Height="35%">
   </p>
 
+### 4.Find employees with a particular role (e.g., Manager):
+
+```dart
+SELECT * From employee WHERE role="Manager";
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/ec5cd682-b117-46a7-8640-ffbda97b4e51" Height="35%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
