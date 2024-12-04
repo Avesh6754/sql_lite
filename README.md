@@ -162,5 +162,3 @@ VALUES (205, "Netik Patel", 45000, 25), (659, "Praful Patnecha", 68946, 28);
 ### 🚀 **Feel free to contribute by adding more SQL queries or use cases!**
 
 --- 
-
-This README is now suitable for GitHub, with images, query examples, and proper formatting! 😊
