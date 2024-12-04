@@ -7,4 +7,9 @@
 ```dart
 INSERT INTO employee (id,name,role,salary,age,address,phone) VALUES (55,"Naresh Patil","Manager",45000,20,"Plot 50 Sun Residency sociret Vapi",9674589842)
 ```
-<img=https://github.com/user-attachments/assets/5e9c864d-6927-4d4b-80cf-e73c578491c8)
+
+<p>
+ 
+
+  <img src="https://github.com/user-attachments/assets/5e9c864d-6927-4d4b-80cf-e73c578491c8" width="22%" Height="35%">
+
