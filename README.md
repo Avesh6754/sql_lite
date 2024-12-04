@@ -1,6 +1,4 @@
-Here's a well-formatted README version for your GitHub repository:
 
----
 
 # Employee Database Management System (DBMS) Queries
 
