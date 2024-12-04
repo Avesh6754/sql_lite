@@ -22,7 +22,19 @@ This repository demonstrates basic DBMS operations using SQL queries for an **Em
 11. [Insert Multiple Employees](#11-insert-multiple-employees)
 
 ---
-
+### Create table for employee
+```sql
+CREATE TABLE "employee" (
+	"id"	INTEGER NOT NULL,
+	"name"	TEXT NOT NULL,
+	"role"	TEXT,
+	"salary"	INTEGER NOT NULL,
+	"address"	TEXT,
+	"age"	INTEGER NOT NULL,
+	"phone"	INTEGER
+);
+```
+---
 ### 1. Add a New Employee
 ```sql
 INSERT INTO employee (id, name, role, salary, age, address, phone) 
