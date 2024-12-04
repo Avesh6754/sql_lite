@@ -88,10 +88,14 @@ SELECT * From employee WHERE role="Sales" AND id=150;
   <img src="https://github.com/user-attachments/assets/c8d75e64-0e9e-4881-8fed-618003e5a564" Height="35%">
 </p>
 
+### 9.Remove an employee with ID 101:
 
-
-
-
+```dart
+DELETE FROM employee WHERE id=101;
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/8ad9f7eb-91c4-4952-944d-a8807f3c4a43" Height="35%">
+</p>
 
 
 
