@@ -75,6 +75,21 @@ SELECT * From employee WHERE id=100;
 </p>
 
 
+### 8.Update the address for employees in the 'Sales' role:
+
+```dart
+
+
+
+UPDATE employee SET address="A 204 RjHans Society Vesu" WHERE role="Sales" AND id=150;
+SELECT * From employee WHERE role="Sales" AND id=150;
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/c8d75e64-0e9e-4881-8fed-618003e5a564" Height="35%">
+</p>
+
+
+
 
 
 
