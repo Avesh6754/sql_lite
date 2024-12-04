@@ -25,3 +25,13 @@ SELECT * From employee
 
   <img src="https://github.com/user-attachments/assets/3da84fc4-d8ff-4db8-b3c4-297736d6e713" Height="35%">
   </p>
+
+  ### 3.Get specific columns for all employees (e.g., name, salary):
+  ```dart
+SELECT name,salary From employee
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/566aa300-018d-4aa4-8f50-497210178cc4" Height="35%">
+  </p>
+
+
