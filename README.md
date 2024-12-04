@@ -44,6 +44,15 @@ SELECT * From employee WHERE role="Manager";
 </p>
 
 
+### 5.Search for employees with names containing "An" (case-insensitive):
+
+```dart
+SELECT * From employee WHERE name Like "A%";
+```
+<p>
+  <img src="https://github.com/user-attachments/assets/e66ee2e2-b52a-4edc-9bb6-269ed1bedcee" Height="35%">
+</p>
+
 
 
 
