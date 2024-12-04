@@ -29,8 +29,8 @@ CREATE TABLE "employee" (
 	"name"	TEXT NOT NULL,
 	"role"	TEXT,
 	"salary"	INTEGER NOT NULL,
-	"address"	TEXT,
 	"age"	INTEGER NOT NULL,
+	"address"	TEXT,
 	"phone"	INTEGER
 );
 ```
